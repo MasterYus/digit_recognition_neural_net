@@ -1,0 +1,11 @@
+﻿  NeuronNetConsole.cpp
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(155): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(186): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(288): warning C4804: *=: небезопасное использование типа "bool" в операции
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(414): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(422): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yus\source\repos\neuronnetconsole\neuronnetconsole\neuronnetconsole.cpp(430): warning C4018: <: несоответствие типов со знаком и без знака
+  NeuronNetConsole.vcxproj -> C:\Users\YUS\source\repos\NeuronNetConsole\Debug\NeuronNetConsole.exe
